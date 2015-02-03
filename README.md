@@ -1,3 +1,5 @@
 # My Personal Website
 
-My personal website where I post information about myself-- who I am, my interests, hobbies, etc.
+Here you will find information about myself-- who I am, my interests, hobbies, etc.
+
+Welcome!
